@@ -24,6 +24,10 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
+    <label for="description"><b>Enter Description</b></label>
+    <input type="text" placeholder="Enter Description" name="description" id="description" required>
+    <hr>
+    <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
