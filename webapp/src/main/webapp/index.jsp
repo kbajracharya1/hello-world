@@ -35,8 +35,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-  <h1> Kritish Bajracharya</h1>
+  <h1>By Kritish Bajracharya</h1>
   <h2>Thankyou, Happy Learning </h2>
-
   
 </form>
