@@ -37,5 +37,11 @@
 
   <h1>By Kritish Bajracharya</h1>
   <h2>Thankyou, Happy Learning </h2>
+
+  <br>
+  <h1>Add a note</h1>
+  <label for ="description"><b>Enter a Note</b></label>
+  <input type="text" placeholder="Enter a Note" name="description" id="decription" required>
+  <hr>
   
 </form>
