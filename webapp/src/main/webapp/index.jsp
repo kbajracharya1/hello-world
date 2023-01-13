@@ -43,5 +43,7 @@
   <label for ="description"><b>Enter a Note</b></label>
   <input type="text" placeholder="Enter a Note" name="description" id="decription" required>
   <hr>
+
+  <h1> New User Registration</h1>
   
 </form>
