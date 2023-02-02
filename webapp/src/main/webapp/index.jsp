@@ -46,8 +46,8 @@
 
   <h1> New User Registration</h1>
   
-  <label for="mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+  <label for="Name"><b>Enter a New User Name</b></label>
+    <input type="text" placeholder="Enter your name" name="Name" id="Name" required>
     <br>
   
 </form>
