@@ -47,7 +47,7 @@
   <h1> New User Registration</h1>
   
   <label for="Name"><b>Enter a New User Name</b></label>
-    <input type="text" placeholder="Enter your name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter your Full name" name="Name" id="Name" required>
     <br>
   
 </form>
